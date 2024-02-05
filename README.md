@@ -20,5 +20,5 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 + [exam](./Exams): This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
 
->  I have not failed. I have found 10000 ways that won't work.
-
+>  I have not failed. I have found 10000 ways that won't work.  
+>  Thomas Edison
