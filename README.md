@@ -26,4 +26,4 @@ This repository contains my homework, quizzes, and virtually every effort that I
 For questions and troubleshooting, contact:  
 Harold Otey
 Hmo0735@mavs.UTA.edu  
-
+Student, University of Texas at Arlington  
