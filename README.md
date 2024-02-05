@@ -22,3 +22,8 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 >  I have not failed. I have found 10000 ways that won't work.  
 >  Thomas Edison  
+
+For questions and troubleshooting, contact:  
+Harold Otey
+Hmo0735@mavs.UTA.edu  
+
