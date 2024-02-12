@@ -21,3 +21,7 @@
 **10.** 6 major benefits of using distributed VCS as opposed to not using any VCS at all for project indexing and maintenance are- Data redundancy and storage efficiency, Low risk of errors and irreversible mistakes, Less difficulty in tracking minor developments in the project, less ambiguity in version differences, less sharing and collaboration difficulties, & less potential risk of complete data loss. 
 
 **11.** The three historical classes of VCS are: local, centralized, and distributed VCS. 
+
+**12.** Git is coding software, GitHub is a cloud. 
+
+**13.** 
