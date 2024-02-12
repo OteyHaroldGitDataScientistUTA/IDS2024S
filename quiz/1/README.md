@@ -10,6 +10,6 @@
 
 **5.** The Linux bash command "cd" means change to home.  
 
-**6.**  The command ls- a formats listings with hidden files.  
+**6.**  The command "ls- a" formats listings with hidden files.  
 
 **7.** 
