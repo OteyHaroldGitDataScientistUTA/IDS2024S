@@ -8,8 +8,12 @@
 
 **4.**  The purpose of the .git folder in projects is to index the specific sections of your project. (ex. quiz, hw, exam folders in this past hw.)  
 
-**5.** The Linux bash command "cd" means change to home.  
+**5.**  The Linux bash command "cd" means change to home.  
 
 **6.**  The command "ls- a" formats listings with hidden files.  
 
-**7.** 
+**7.**  The command "pwd" shows the current directory.  
+
+**8.**  The three areas of a GIT project are the **Working directory**- where the project is modified but not staged, **the staging directory**- where the project can be staged to commit to the repository, and **the .git repository.**- where the project is committed; or becomes permanent.  
+
+**9.** 
