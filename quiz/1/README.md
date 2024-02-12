@@ -22,6 +22,18 @@
 
 **11.** The three historical classes of VCS are: local, centralized, and distributed VCS. 
 
-**12.** Git is coding software, GitHub is a cloud. 
+**12.** Git is coding software, GitHub is the cloud. 
 
-**13.** 
+**13.** Git status - "Lists all new or modified files to be committed." 
+
+**14.** Git push --all - "Uploads all local branch commits to GitHub." 
+
+**15.** Git pull - "Downloads bookmark history and incorporates changes." 
+
+**16.** "Markdown is a way to style text on the web. You control the display of the document; formaing words as
+bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly,
+Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *"
+
+**17.** You make a text boldfaced by placing "**" on both sides of a given text. 
+
+**18.** 
