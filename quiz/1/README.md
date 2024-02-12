@@ -36,4 +36,10 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 
 **17.** You make a text boldfaced by placing "**" on both sides of a given text. 
 
-**18.** 
+**18.** You make a text italic by placing "*" on both sides of a given text. 
+
+**19.** The command is "git init"
+
+**20.** ".." means parent folder and "." means the child essentially. 
+
+**21.** 
