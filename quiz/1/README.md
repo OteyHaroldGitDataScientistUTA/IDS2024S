@@ -16,4 +16,8 @@
 
 **8.**  The three areas of a GIT project are the **Working directory**- where the project is modified but not staged, **the staging directory**- where the project can be staged to commit to the repository, and **the .git repository.**- where the project is committed; or becomes permanent.  
 
-**9.** 
+**9.** A Version control system **(or VCS)** is a system (e.g., software) that records changes to a file or set of files over time so that you can recall specific versions later.  
+
+**10.** 6 major benefits of using distributed VCS as opposed to not using any VCS at all for project indexing and maintenance are- Data redundancy and storage efficiency, Low risk of errors and irreversible mistakes, Less difficulty in tracking minor developments in the project, less ambiguity in version differences, less sharing and collaboration difficulties, & less potential risk of complete data loss. 
+
+**11.** The three historical classes of VCS are: local, centralized, and distributed VCS. 
