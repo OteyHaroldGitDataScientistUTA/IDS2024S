@@ -6,4 +6,6 @@
 
 **3.**  Yes. 
 
-**4.**  
+**4.**  The purpose of the .git folder in projects is to index the specific sections of your project. (ex. quiz, hw, exam folders in this past hw.)  
+
+**5.** The Linux bash command "cd" means change to home.  
