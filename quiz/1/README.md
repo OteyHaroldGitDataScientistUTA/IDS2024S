@@ -42,4 +42,4 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 
 **20.** ".." means parent folder and "." means the child essentially. 
 
-**21.** 
+**21.** We did not have enough time to do this last part. I have studied a lot and the first 20 questions took almost the entire class period. This is all completely new to me, so my apologies that I was not finished. I hope that you will have grace. I did my very best, this is just a beginners class.
