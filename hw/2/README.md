@@ -1,4 +1,6 @@
-**1.**-  
+**1.** 
+<img width="1380" alt="Screenshot 2024-02-28 at 5 26 18 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/1052d327-10f2-41cf-a94d-52d789aa551d">
+
 **2.** Electronic Numerical Integrator and Computer   
 **3.** For storing values and loops    
 **4.** Cache Memory  
@@ -7,7 +9,7 @@
 **7.** a.) Assembly Language  b.) Yes.  
 **8** a.) Fortran b.) Six decades (almost)  
 **9.** a.) Colbol b.) 3rd-Generation  
-**10.** The 1970's, the 1980's, & the 1990's.
+**10.** The 1970's, the 1980's, & the 1990's.  
 **11.** BCPL  
 **12.** C, Simula.  
 **13.** Fortran  
