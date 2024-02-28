@@ -1,5 +1,6 @@
 **1.** 
-<img width="1380" alt="Screenshot 2024-02-28 at 5 26 18 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/1052d327-10f2-41cf-a94d-52d789aa551d">
+<img width="1380" alt="Screenshot 2024-02-28 at 5 28 46 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/934c4d7f-4e06-4a2b-9fa6-ba09927fc19f">
+
 
 **2.** Electronic Numerical Integrator and Computer   
 **3.** For storing values and loops    
