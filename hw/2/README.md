@@ -21,9 +21,9 @@
 **21.** Fetch, decode, & Execute.  
 **22.** Determines the # of cycles of operations a processor can perform x second. This would lead to faster task processing.  
 **23.** CPU. CPU supports higher-end GPU.  
-**24.** The main difference between the two is that Dennard Scaling is related to power scaling. However, they are related because moore's law provides more switches and D.S. keeps them efficient.  
-**25.** *a.)* 64. *b.)* 4,160, *c.)* 59 % of one lb.   
-**26.**  
-**27.** -  
+**24.** The main difference between the two is that Dennard Scaling is related to power scaling. However, they are related because Moore's law provides more switches and D.S. keeps them efficient.  
+**25.** *a.)* 64. *b.)* 4,160, *c.)* 59 % of one lb. (Close to half a lb)  
+**26.** *a.)* 9,223,372,036,854,776,000 *b.)* 18 *c.)* ? *d.)* about 2.5 years.  
+**27.** Memory, Looping, and Branching.  
 **28.** -  
 
