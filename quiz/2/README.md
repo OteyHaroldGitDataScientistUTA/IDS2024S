@@ -10,9 +10,9 @@
 **10.** A computer that already has a prewired function. *(From Lecture notes)*   
 **11.** A calculator  
 **12.** Declarative knowledge involves statements of fact while imperative knowledge is about how to accomplish something  
-**13.**  a.) declareitve. b.) imperative. 
-**14.**  Algorithms are imperative. 
-**15.** ENIAC  
+**13.**  a.) declareitve. b.) imperative.   
+**14.**  Algorithms are imperative.   
+**15.** ENIAC    
 **16.** Python. It is very tied to bioinformatics    
 **17.**  Fortran  
 **18.** 1.)    2.)   3.)    4.)    5.)    
