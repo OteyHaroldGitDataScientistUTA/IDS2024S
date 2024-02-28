@@ -1,1 +1,29 @@
+**1.**-  
+**2.** Electronic Numerical Integrator and Computer   
+**3.** For storing values and loops    
+**4.** Cache Memory  
+**5.** Disk  
+**6.** Bit  
+**7.** a.) Assembly Language  b.) Yes.  
+**8** a.) Fortran b.) Six decades (almost)  
+**9.** a.) Colbol b.) 3rd-Generation  
+**10.** The 1970's, the 1980's, & the 1990's.
+**11.** BCPL  
+**12.** C, Simula.  
+**13.** Fortran  
+**14.** Registers  
+**15.** A byte (or bytes).  
+**16.** Significantly faster.    
+**17.** A lot Faster  
+**18.** Faster, but not by much.  
+**19.** Transistors act as an on/off switch of sorts They either allow or prevent currents from flowing through to represent the binary digit 1, or they cut it off to represent 0.      
+**20.** Because the chips would have to be made larger. This isn't feasible for most computers.  
+**21.** Fetch, decode, & Execute.  
+**22.** Determines the # of cycles of operations a processor can perform x second. This would lead to faster task processing.  
+**23.** CPU. CPU supports higher-end GPU.  
+**24.** The main difference between the two is that Dennard Scaling is related to power scaling. However, they are related because moore's law provides more switches and D.S. keeps them efficient.  
+**25.** *a.)* 64. *b.)* 4,160, *c.)* 59 % of one lb.   
+**26.** 
+**27.** -  
+**28.** -  
 
