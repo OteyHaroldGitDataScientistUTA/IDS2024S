@@ -23,7 +23,7 @@
 **23.** CPU. CPU supports higher-end GPU.  
 **24.** The main difference between the two is that Dennard Scaling is related to power scaling. However, they are related because moore's law provides more switches and D.S. keeps them efficient.  
 **25.** *a.)* 64. *b.)* 4,160, *c.)* 59 % of one lb.   
-**26.** 
+**26.**  
 **27.** -  
 **28.** -  
 
