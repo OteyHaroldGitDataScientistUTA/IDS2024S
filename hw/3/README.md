@@ -1,4 +1,5 @@
 **1.** Experiment, Theory, and computational  
-**2.** Bioinformatics - technique is used to analyze and interperet DNA sequences, Astrophysics- which involves the study of celestial bodies.  
+**2.** Predictive computing, numerical simulation, and data-driven discovery via machine learning. 
 **3.** Deductive and plausible reasoning.  
 **4.** It's raining, therefore it's cloudy.   
+**5.** If **A** & **B** **-> then C**  
