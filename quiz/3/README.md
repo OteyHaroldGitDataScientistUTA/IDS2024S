@@ -4,7 +4,7 @@
 
 **3.**  
 
-**4.**  
+**4.** Deductive and Plausible Reasoning. **Plausible:** The evidence does not prove that A is true, but verification of one of its consequences does give us more confidence in A. *ex.*  A = it will start raining by 10am at the latest. **Deductive:** In deductive logic, a proposition is a statement that can be either true or false; it must be one or the other, and it cannot be both. *ex.* If a is true then B is true.  
 
 **5.**
 
