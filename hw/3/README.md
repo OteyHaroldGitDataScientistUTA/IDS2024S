@@ -16,4 +16,8 @@
 <img width="525" alt="Screenshot 2024-03-27 at 3 39 21 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/65d17be2-83a2-46ac-a02e-263cc594f18b">  
 **11.**  
 <img width="525" alt="Screenshot 2024-03-27 at 3 41 47 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/6e24ee89-36d7-496b-aa33-3f71fd40ad9e">  
+**12.**  
 
+*a.* Bit  
+*b.* The bit is small enough that you can only hold 2 values (0, &/or 1). I wouldn't be able to tell where I was because I would have no point of reference. 
+*c.* 1. **Two.** 2.**Four.** 3. **Six.**  
