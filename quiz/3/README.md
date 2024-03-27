@@ -32,7 +32,8 @@
 **13.**
 <img width="1080" alt="Screenshot 2024-03-27 at 4 51 33 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/daadb503-a0f2-4e05-815a-e88889e2303a">  
 
-**14.**
+**14.**  
+<img width="974" alt="Screenshot 2024-03-27 at 5 01 53 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/d0f1a4f8-7fc3-4a40-8b5c-d5f7d1374ea8">  
 
 **15.**
 
