@@ -30,6 +30,7 @@
 <img width="530" alt="Screenshot 2024-03-27 at 4 44 50 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/5efa3875-9c49-4d7c-95fe-d485fdf4a4a0">  
 
 **13.**
+<img width="1080" alt="Screenshot 2024-03-27 at 4 51 33 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/daadb503-a0f2-4e05-815a-e88889e2303a">  
 
 **14.**
 
