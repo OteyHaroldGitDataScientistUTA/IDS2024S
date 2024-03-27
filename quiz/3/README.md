@@ -6,7 +6,7 @@
 
 **4.** Deductive and Plausible Reasoning. **Plausible:** The evidence does not prove that A is true, but verification of one of its consequences does give us more confidence in A. *ex.*  A = it will start raining by 10am at the latest. **Deductive:** In deductive logic, a proposition is a statement that can be either true or false; it must be one or the other, and it cannot be both. *ex.* If a is true then B is true.  
 
-**5.** ?
+**5.** No. Logically we know that if there are clouds there could be rain. But in terms of physical causation, we know that if it is raining there have to be clouds because rain is the offspring of densely compact clouds.  
 
 **6.** George Boole. (1854)  
 
