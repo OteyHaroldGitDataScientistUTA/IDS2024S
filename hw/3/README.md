@@ -20,4 +20,4 @@
 
 *a.* Bit  
 *b.* The bit is small enough that you can only hold 2 values (0, &/or 1). I wouldn't be able to tell where I was because I would have no point of reference.  
-*c.* 1. **Two.** 2.**Four.** 3. **Six.**  
+*c.* 1. **Two.** 2. **Four.** 3. **Six.**  
