@@ -18,7 +18,7 @@
 <img width="1009" alt="Screenshot 2024-03-27 at 4 28 40 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/5d737fd7-3366-40fd-b7de-5ddb9b4586f0">  
 
 
-**9.**
+**9.**  
 
 **10.**
 
