@@ -2,17 +2,21 @@
 <img width="936" alt="Screenshot 2024-03-27 at 4 07 09 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/339bd8a4-5b81-47b5-a583-34674cd40ed7">  
 **2.**  Experimentary, Theory, and Simulation. Simulation could replace the others because it's applied.  
 
-**3.**  
+**3.**  1. 2. 3. 
 
 **4.** Deductive and Plausible Reasoning. **Plausible:** The evidence does not prove that A is true, but verification of one of its consequences does give us more confidence in A. *ex.*  A = it will start raining by 10am at the latest. **Deductive:** In deductive logic, a proposition is a statement that can be either true or false; it must be one or the other, and it cannot be both. *ex.* If a is true then B is true.  
 
-**5.**
+**5.** ?
 
-**6.**
+**6.** George Boole. (1854)  
 
-**7.**
+**7.** 
+<img width="515" alt="Screenshot 2024-03-27 at 4 29 36 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/e66ee6ce-d1ab-4708-af0e-d5b9afa487a6">  
+
 
 **8.**
+<img width="1009" alt="Screenshot 2024-03-27 at 4 28 40 PM" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/5d737fd7-3366-40fd-b7de-5ddb9b4586f0">  
+
 
 **9.**
 
