@@ -6,5 +6,6 @@
 **4.**  
 ![IMG_4481](https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/1a5d4e08-d8bd-4d8e-a904-8b43c6ef049a)  
 **5.**  
-**6.**  
+**6.**   
+![IMG_4482](https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/9146fc21-64f7-464d-b611-c4d5c9c77b66)  
 **7.**  *1.* Degrees of plausibility are represented by real numbers. *2.* Qualitative correspondence with common sense. *3.* Consistency.  
