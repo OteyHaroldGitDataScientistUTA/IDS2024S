@@ -8,7 +8,7 @@
 **8.**  1. Color to represent data values, 2. diverging color scale, 3. accent color scales, and 4. Color as a tool to highlight.  
 **9.**  It adds to the value of the graph and it is pointless and too confusing.  
 **10.**  
-**11.**  
+**11.**  Color is categorical and unordered.  
 **12.**  
 **13.**  
 **14.**  
