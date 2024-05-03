@@ -15,5 +15,5 @@
 **15.**  8.  
 **16.**  Using color as a tool.    
 **17.**  The x-axis isn't labeled in the right places.  
-**18.**  uploaded
+**18.**  uploaded  
 **19.**  Where the graph gets warmer by 3 * Celcius.
