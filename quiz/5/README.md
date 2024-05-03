@@ -12,8 +12,8 @@
 **12.**  All 3 of them.  
 **13.**  The second one. With the pink instead of red. Pink is easier for someone who is color-blind to see.  
 **14.**  1. San Diego 2. Chicago  3. Death Valley 4. Also San Diego  
-**15.**  
-**16.**  
-**17.**  
+**15.**  8.  
+**16.**  Using color as a tool.    
+**17.**  The x-axis isn't labeled in the right places.  
 **18.**  
 **19.**  
