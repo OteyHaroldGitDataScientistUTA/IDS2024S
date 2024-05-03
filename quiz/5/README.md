@@ -16,4 +16,4 @@
 **16.**  Using color as a tool.    
 **17.**  The x-axis isn't labeled in the right places.  
 **18.**  
-**19.**  
+**19.**  Where the graph is 
