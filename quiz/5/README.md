@@ -2,8 +2,8 @@
 **2.**  Continuous and discrete aesethics.  
 **3.**  Factors tend to be categorical, while levels are usually disorganized.  
 **4.**  1: Discrete - ex.) No fixed type of data such as integers. Could be decimals, percents, etc.. 2: Continuous - ex.) integers, 
-**5.**  Value 
-**6.**  Ordered- Temperatures of the day by time Unordered- Colors, types of animals, or food.  
+**5.**  Value  
+**6.**  Ordered- Temperatures of the day by time Unordered- Colors, types of animals, or food.    
 **7.**  Polar Graphs  
 **8.**  
 **9.**  
