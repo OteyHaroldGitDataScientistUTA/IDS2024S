@@ -4,8 +4,8 @@
 **4.**  A- Intrinsic Order B- Color to rep data values C- Diverging color scale D- Color as a tool to highlight  
 **5.**  Experimentary, Theory, and Simulation.  
 **6.**  No. Logical implication suggests that "if it is cloudy, it is going to rain" But physical causation says that "because it is going to rain, it is cloudy".  
-**7.**  Yes. Because it is going the same way the red line is going. This shows the temp increase over a period of time.  
-**8.**  
+**7.**  1. Yes. Because it is going the same way the red line is going. This shows the temp increase over a period of time. 2. I would guess technology was behind. 3. Positive correlation 4. yes, because it shows data and proves it over time.  
+**8.**  Bayesian approach
 **9.**  
 **10.**  
 **11.**  
