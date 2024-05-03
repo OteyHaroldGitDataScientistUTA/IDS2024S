@@ -21,5 +21,5 @@
 **18.**  That the two have the same logical value.  
 **19.**   
 <img width="530" alt="317526613-5efa3875-9c49-4d7c-95fe-d485fdf4a4a0" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/26ad7912-cf47-490b-b8c3-49186ecfefc9">   
-**20.**  No, sadly. Real numbers aren't quantifiable.  
+**20.**  No, sadly. Real numbers aren't quantifiable. Real numbers are infinite and computers are finite.  
 **21.**  
