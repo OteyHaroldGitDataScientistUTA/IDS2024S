@@ -11,8 +11,8 @@
 **11.**  --  
 **12.**  Because it's essentially the alphabet of the language computers use. Everything is represented by zeros or ones.     
 **13.**  B, Fortran, or BCPL.  
-**14.**  
-**15.**  
+**14.**  Fortran.  
+**15.** Deductive and plausible reasoning. *D*- if a is true then b is true. *P*- if A is true, then b is true, therefore A becomes more plausible.  ex. It will rain by 10 am at the latest, so therefore there must be rainclouds before 10 am.  
 **16.**  
 **17.**  
 **18.**  
