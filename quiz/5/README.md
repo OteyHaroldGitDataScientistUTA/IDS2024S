@@ -10,7 +10,7 @@
 **10.**  Ordered/numerical- Temperatures of the day by time Unordered/categorical Colors, types of animals, or food.  
 **11.**  Color is categorical and unordered.  
 **12.**  All 3 of them.  
-**13.**   
+**13.**  The second one. With the pink instead of red. Pink is easier for someone who is color-blind to see.  
 **14.**  
 **15.**  
 **16.**  
