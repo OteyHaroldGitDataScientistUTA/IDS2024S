@@ -1,6 +1,6 @@
 **1.**  Aesthetics are: Position, size, color, and line width can represent continuous data, but shape and line type can rep continuous data.  
 **2.**  Continuous and discrete aesethics.  
-**3.**  
+**3.**  Factors tend to be categorial, while levels are usually disorganized.  
 **4.**  
 **5.**  
 **6.**  
