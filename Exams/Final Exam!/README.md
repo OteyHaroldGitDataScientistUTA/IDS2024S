@@ -8,7 +8,7 @@
 **8.**  Bayesian approach  
 **9.**  Also the Bayesian Approach  
 **10.**  Bayes theorem  
-**11.**  --  
+**11.**  Nobody on the titanic would have been below age zero -lecture-  
 **12.**  Because it's essentially the alphabet of the language computers use. Everything is represented by zeros or ones.     
 **13.**  B, Fortran, or BCPL.  
 **14.**  Fortran.  
