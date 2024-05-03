@@ -10,12 +10,12 @@
 **10.** All 3 of them  
 **11.** a polar chart  
 **12.** RBG, RWB, BGR, BWR  
-**13.** The density is
-**14.**  
-**15.**  
-**16.**  
-**17.**  
-**18.**  
-**19.**  
+**13.** The density is too low I think.  
+**14.** The bottom is low.  
+**15.** Honolulu is hotter.  
+**16.** Orange Grove  
+**17.**    
+**18.** Classical, empirical, subjective and axiomatic.  
+**19.** 
 **20.**  
 
