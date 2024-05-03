@@ -6,7 +6,7 @@
 **6.**  Ordered- Temperatures of the day by time Unordered- Colors, types of animals, or food.    
 **7.**  Polar Graphs  
 **8.**  1. Color to represent data values, 2. diverging color scale, 3. accent color scales, and 4. Color as a tool to highlight.  
-**9.**  It adds to the value of the graph and it is pointless and too confusing.  
+**9.**  It adds to the value of the graph and it is just too confusing.  
 **10.**  
 **11.**  Color is categorical and unordered.  
 **12.**  
