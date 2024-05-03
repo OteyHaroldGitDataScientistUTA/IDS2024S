@@ -1,4 +1,4 @@
-**1.**  Validation is Comparing model behavior to a system and calibration is comparing it to the system in general, not just behaviorly.  
+**1.**  Validation is Comparing model behavior to a system and calibration is comparing it to the system not just behaviorly.  
 **2.**  
 **3.**  
 **4.**  
