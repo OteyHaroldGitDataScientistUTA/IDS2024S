@@ -16,6 +16,7 @@
 <img width="516" alt="317524822-76839bd5-58c9-40be-b5fb-741e155f6892" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/83850ff0-0efa-497e-9231-8cf9aad54fd4">  
 
 **16.**    
+<img width="412" alt="317533588-b73de5cc-824d-4fba-ad5a-b41733c65506" src="https://github.com/OteyHaroldGitDataScientistUTA/IDS2024S/assets/157654733/16e34150-8ada-4e1e-94b7-d722a427bb93">  
 **17.** Deductive and plausible reasoning. *D*- if a is true then b is true. *P*- if A is true, then b is true, therefore A becomes more plausible.  ex. It will rain by 10 am at the latest, so therefore there must be rainclouds before 10 am.   
 **18.**  That the two have the same logical value.  
 **19.**   
