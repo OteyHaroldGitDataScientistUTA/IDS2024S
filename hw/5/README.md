@@ -12,7 +12,7 @@
 **12.** The density is too low I think.  
 **13.** The bottom is low.    
 **14.** Honolulu is hotter.  
-**15.** --
+**15.** --  
 **16.** Orange Grove  
 **17.** --
 **18.** Classical, empirical, subjective, and axiomatic.  
