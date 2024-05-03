@@ -2,8 +2,8 @@
 **2.**  All data visualizations map data values into quantifiable features of the resulting graphic. We refer to these features as aesthetics.  
 **3.**  The second one because it is better for all to see.   
 **4.**  A- Intrinsic Order B- Color to rep data values C- Diverging color scale D- Color as a tool to highlight  
-**5.**  
-**6.**  
+**5.**  Experimentary, Theory, and Simulation.  
+**6.**  No. Logical implication suggests that "if it is cloudy, it is going to rain" But physical causation says that "because it is going to rain, it is cloudy".  
 **7.**  
 **8.**  
 **9.**  
