@@ -9,7 +9,7 @@
 **9.**  Also the Bayesian Approach  
 **10.**  Bayes theorem  
 **11.**  --  
-**12.**  Because its essentially the alphabet of the language computers use. Everything is represented by zeros or ones.   
+**12.**  Because it's essentially the alphabet of the language computers use. Everything is represented by zeros or ones.     
 **13.**  
 **14.**  
 **15.**  
