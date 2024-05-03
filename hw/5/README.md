@@ -15,7 +15,7 @@
 **15.** Honolulu is hotter.  
 **16.** Orange Grove  
 **17.**    
-**18.** Classical, empirical, subjective and axiomatic.  
-**19.** 
+**18.** Classical, empirical, subjective, and axiomatic.  
+**19.**  
 **20.**  
 
