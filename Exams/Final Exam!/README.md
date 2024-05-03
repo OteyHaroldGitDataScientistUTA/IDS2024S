@@ -5,11 +5,11 @@
 **5.**  Experimentary, Theory, and Simulation.  
 **6.**  No. Logical implication suggests that "if it is cloudy, it is going to rain" But physical causation says that "because it is going to rain, it is cloudy".  
 **7.**  1. Yes. Because it is going the same way the red line is going. This shows the temp increase over a period of time. 2. I would guess technology was behind. 3. Positive correlation 4. yes, because it shows data and proves it over time.  
-**8.**  Bayesian approach
-**9.**  
-**10.**  
-**11.**  
-**12.**  
+**8.**  Bayesian approach  
+**9.**  Also the Bayesian Approach  
+**10.**  Bayes theorem  
+**11.**  --  
+**12.**  Because its essentially the alphabet of the language computers use. Everything is represented by zeros or ones.   
 **13.**  
 **14.**  
 **15.**  
