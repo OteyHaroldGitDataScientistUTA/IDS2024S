@@ -11,7 +11,7 @@
 **11.**  Color is categorical and unordered.  
 **12.**  All 3 of them.  
 **13.**  The second one. With the pink instead of red. Pink is easier for someone who is color-blind to see.  
-**14.**  1.San Diego 2. Chicago  3. Death Valley 4. Also San Diego  
+**14.**  1. San Diego 2. Chicago  3. Death Valley 4. Also San Diego  
 **15.**  
 **16.**  
 **17.**  
