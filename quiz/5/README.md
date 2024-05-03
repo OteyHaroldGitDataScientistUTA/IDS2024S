@@ -1,10 +1,10 @@
-**1.**  Aesthetics are: Position, size, color, and line width can represent continuous data, but shape and line type can rep continuous data.  
+**1.** Position, size, color, and line width can represent continuous data, but shape and line type can represent continuous data.  
 **2.**  Continuous and discrete aesethics.  
 **3.**  Factors tend to be categorical, while levels are usually disorganized.  
-**4.**  
-**5.**  
-**6.**  
-**7.**  
+**4.**  1: Discrete - ex.) No fixed type of data such as integers. Could be decimals, percents, etc.. 2: Continuous - ex.) integers, 
+**5.**  Value 
+**6.**  Ordered- Temperatures of the day by time Unordered- Colors, types of animals, or food.  
+**7.**  Polar Graphs  
 **8.**  
 **9.**  
 **10.**  
